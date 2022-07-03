@@ -1,7 +1,7 @@
-### Hi 👋, I am Prakhyat Chalotra , 
+### Hi there 👋,  I am Prakhyat Chalotra , 
 - 🔭 I am a Second Year Undergratuate Student in Civil Engineering Department.
-- 💡 I have major interest in Artificial Intelligence(AI)
--    currently working on some projects in the field of Machine learning(ML),Deep Learning(DL),        Data science and Natural language processing (NLP) to know more about it. 
+- 💡 I have major interest in Artificial Intelligence(AI) and Data science.
+- ⏳ Currently I'm working on some projects in the field of Machine learning(ML),Deep Learning(DL), Data science and Natural language processing (NLP) to know more about it. 
 - 🌱 However I am always happy to learn and explore the other skills which I am unknown with.
 - ⚡ Apart from technical stuffs my hobbies are Gymming, Travelling and Hiking.
 
